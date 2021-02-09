@@ -1,0 +1,7 @@
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ SNO                                                NUMBER(3)
+ SNAME                                              VARCHAR2(10)
+ AVG                                                FLOAT(126)
+ TOTAL                                              FLOAT(126)
+ RESULT                                             VARCHAR2(10)
